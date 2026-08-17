@@ -1,0 +1,13 @@
+RANA ACADEMY — GITHUB READY
+
+1. Unzip this ZIP.
+2. Open the extracted folder.
+3. On Mac press Command + Shift + . once so hidden GitHub files are also visible.
+4. Press Command + A to select EVERYTHING inside the extracted folder.
+5. Drag all selected files/folders into the GitHub repo Upload files page.
+6. Commit changes.
+
+Important:
+- Keep .github/workflows/pages.yml in exactly that path.
+- Keep .nojekyll in the repo root.
+- Do not upload the outer extracted folder itself; upload everything INSIDE it.
