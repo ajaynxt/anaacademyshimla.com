@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://ranaacademyshimla.com/sitemap.xml
