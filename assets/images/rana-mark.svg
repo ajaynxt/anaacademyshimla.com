@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="t d">
+  <title id="t">Rana Academy mark</title><desc id="d">RA monogram placeholder mark for the rebuild</desc>
+  <rect width="64" height="64" rx="18" fill="#a61f2b"/>
+  <path d="M17 45V18h15.2c7.1 0 11.4 3.7 11.4 9.5 0 4.2-2.5 7.3-6.7 8.6L47 45h-8.2l-8.9-8.2h-5.5V45H17Zm7.4-14h7c3.2 0 4.9-1.2 4.9-3.4s-1.7-3.4-4.9-3.4h-7V31Z" fill="#fff"/>
+  <path d="M42.2 18 54 45h-7.7l-2-5H33.7l2.8-6.5h5.2L38.9 27l3.3-9Z" fill="#f7d8dc"/>
+</svg>
